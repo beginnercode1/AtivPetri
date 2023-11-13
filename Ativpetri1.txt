@@ -1,0 +1,57 @@
+Qual é a importância do conteúdo do campo Endereço Destino?
+Resposta: O campo Endereço Destino é crucial porque direciona o cabeçalho para a máquina de destino por meio do seu endereço IP.
+
+Por que o PC envia um broadcast ARP antes da primeira requisição ping?
+Resposta: O PC envia um broadcast ARP antes da primeira requisição ping para reconhecer todos os endereços MAC da rede antes de enviar os pacotes.
+
+Qual é o endereço MAC origem no primeiro quadro?
+Resposta: O endereço MAC de origem no primeiro quadro é 30:46:9a:99:c5:72.
+
+Qual é o ID do fornecedor (OUI) da NIC de origem na resposta do ARP?
+Resposta: O ID do fornecedor da NIC de origem na resposta do ARP é 30469a.
+
+Que parte do endereço MAC é a OUI?
+Resposta: A OUI é a parte inicial do endereço MAC, formulado pelos seis primeiros dígitos.
+
+Qual é o número serial da NIC de origem?
+Resposta: O número serial da NIC de origem é 99c572.
+
+PARTE 2 ETAPA 1
+
+Qual é o endereço IP do gateway padrão do PC?
+Resposta: O endereço IP do gateway padrão do PC é 192.168.15.1
+
+ETAPA 6 
+C)Qual é o endereço MAC da NIC do PC?
+Resposta: O endereço MAC da NIC do PC é 127.0.0.1
+
+Qual é o endereço MAC do gateway padrão?
+Resposta: O endereço MAC do gateway padrão é B8-97-5A-A9-78-3c.
+
+D)Que tipo de quadro é exibido?
+Resposta: Um quadro contendo o endereço de origem e o de destino e informações do ping do mesmo.
+
+Qual é o endereço IP de origem?
+Resposta: O endereço IP de origem é 192.168.15.11
+
+Qual é o endereço IP de destino?
+Resposta:  O endereço IP de origem é 192.168.15.11
+
+O que dizem os dois últimos octetos destacados?
+Resposta: Os dois ultimos octetos destacados 69 6A 6B 6C 6D 6E 6F 70
+
+Que dispositivo e endereço MAC são exibidos como endereço destino?
+Resposta: Um dispositivo DESKTOP-OFLV1K1 e seu endereço MAC são B8-97-5A-A9-78-3c.
+
+ETAPA 7
+No primeiro quadro de requisição (ping) de eco, quais são os endereços MAC de origem e de destino?
+Resposta:
+Origem B8-97-5A-A9-78-3c
+Destino: B8-97-5A-A9-78-3c
+
+
+Quais são os endereços IP origem e destino contidos no campo de dados do quadro?
+Resposta:
+Origem: 192.168.15.11
+Destino: 244.0.0.251
+

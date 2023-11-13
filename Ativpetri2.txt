@@ -1,0 +1,63 @@
+etapa 2
+b)
+Pergunta:
+Os pings foram bem-sucedidos? Explique.
+  R: não, porque o switch ainda não foi configurado.
+ etapa 4
+
+Os pings foram bem-sucedidos?
+  R: sim, foram bem sucedidos
+
+Parte 2
+ etapa 1
+Qual é a parte de OUI do endereço MAC neste dispositivo?
+  R:00E0A3
+
+Qual é a parte de número de série do endereço MAC neste dispositivo?
+  R:242A60
+
+Usando o exemplo acima, localize o nome do fornecedor que fabricou essa placa de interface de rede.
+  R: Dell (Fonte: https://rst.im/oui/5C260A)
+
+B) No prompt de comando do PC-A, emita o comando ipconfg/all e identifique a parte do OUI do endereço MAC da placa de rede do PC-A
+ R: 0090.21
+
+Identifique a parte de número de série do endereço MAC na NIC de PC-A.
+  R: 27.433A
+
+
+Identifique o nome do fornecedor que fabricou a NIC de PC-A.
+  R: Cisco Systems, Inc (Fonte: https://rst.im/oui/0090.21)
+
+  etapa 2
+Qual é o endereço MAC de VLAN 1 em S1?
+  R: 001b.0c6d.8f40
+
+Qual é o número de série do MAC para VLAN 1?
+  R: 6d.8f40
+
+Qual é o OUI para VLAN 1?
+  R: 001b.0c
+
+Com base nessa OUI, qual é o nome do fornecedor?
+  R: Cisco Systems, Inc (Fonte: https://rst.im/oui/001B.0C)
+
+O que significa bia?
+  R: Bia em endereço MAC significa burned-in address. 
+
+Por que a saída indica o mesmo endereço MAC duas vezes? 
+  R: Um é configurado internamente no switch e o outro é de origem da placa de rede.
+
+Que endereços da Camada 2 são exibidos em S1? 
+  R: Os endereços exibidos em S1 são 192.168.1.2 e 192.168.1.3
+
+O switch exibe o endereço MAC de PC-A? Se você respondeu sim, em que porta ele estava? 
+  R: Sim, ele é exibido na porta Dinâmica.
+
+   PERGUNTAS PARA REFLEXÃO
+
+É possível ter broadcasts no nível da Camada 2? Em caso afirmativo, qual seria o endereço MAC?
+  R: Sim, o endereço é 192.168.1.255
+
+Por que você precisaria saber o endereço MAC de um dispositivo?
+  R: Para poder identificar e direcionar os pacotes corretamente dentro dos protocolos de rede.
